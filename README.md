@@ -1,3 +1,5 @@
+*Inactive/on hold/stale/don't care*
+
 # Jörn Zaefferer's Standards Tracker
 
 This repository is intended as a public issue tracker for any standards issues I'm involved in. Issues are likely to involve the W3C, WHATWG or browser vendors, since those are mostly relevant for the standards issues I care about.
